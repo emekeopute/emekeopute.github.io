@@ -1,0 +1,8 @@
+#profile-pic {
+  display: flex;
+  border: solid green;
+}
+
+p {
+  color: blue;
+}
