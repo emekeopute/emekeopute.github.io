@@ -1,0 +1,64 @@
+/* #nav-banner {
+  display: inline-block;
+  width: 100vw;
+  height: 5vh;
+  flex-grow: inherit;
+  font-weight: 1000;
+  font-size: large;
+}
+
+#square-logo {
+  width: auto;
+  height: 20%;
+}
+
+.movable {
+  width: 100vw;
+  height: auto;
+  background-color: #000;
+  padding: 12px 15px;
+}
+.darkJamLogo {
+  width: 20vw;
+  position: absolute;
+  top: 1vh;
+  padding: 1rem, 1rem;
+}
+
+#backgroundImg {
+  position: absolute;
+}
+p {
+  color: blue;
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  background: rgba(0, 0, 0, 0.9);
+  color: rgb(22, 15, 29);
+} */
+
+.nav {
+  background-color: rgb(5, 39, 192) !important;
+}
+
+ul li a {
+  color: white;
+}
+
+.pets {
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 50px;
+}
+
+.btn {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.found {
+  background-color: black;
+  color: white;
+}
