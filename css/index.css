@@ -40,6 +40,25 @@ body {
 
 .nav {
   background-color: rgb(5, 39, 192) !important;
+  height: 5vh;
+}
+
+.fonts1 {
+  font-size: 3rem;
+  font-family: "Nanum Brush Script", cursive;
+  font-family: "Source Sans Pro", sans-serif;
+}
+.body-background {
+  background-color: #f7eaea;
+}
+
+.main-container {
+  justify-content: center;
+  justify-self: auto;
+}
+
+.desc-container {
+  flex: auto;
 }
 
 ul li a {
