@@ -50,6 +50,13 @@ h2 {
   justify-content: space-between;
 }
 
+#background-img {
+  background-image: url(https://bashooka.com/wp-content/uploads/2018/04/scg-canvas-background-animation-24.jpg);
+  background-position: center center;
+  background-size: cover;
+  height: auto;
+  display: flex;
+}
 /*
 .picture {
   height: 30vh;
